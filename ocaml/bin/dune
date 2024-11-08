@@ -1,0 +1,4 @@
+(executable
+ (public_name bsearch_benchmark)
+ (name main)
+ (libraries bsearch_benchmark benchmark))
